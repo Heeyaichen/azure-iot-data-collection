@@ -19,7 +19,7 @@ This solution ingests real-time air quality data from an external API, sends it 
     - [Cosmos DB Configuration](#cosmos-db-configuration)
     - [Azure Stream Analytics Job](#azure-stream-analytics-job)
   - [Deployment](#deployment)
-  - [Usage](#usage)
+  - [Monitoring](#monitoring)
   - [Troubleshooting](#troubleshooting)
   - [Resources \& Links](#resources--links)
   - [Contributing](#contributing)
@@ -130,7 +130,7 @@ The solution is composed of the following Azure services:
 
 ---
 
-## Monitoring & Diagnostics
+## Monitoring
 
 - **Function App:**  
   - Execution logs, performance metrics, and failures.  
