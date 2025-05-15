@@ -3,7 +3,7 @@ This solution ingests real-time air quality data from an external API, sends it 
 
 ---
 
-![Image](https://github.com/user-attachments/assets/f7de4d79-2ffc-4fc8-8a27-b7dc13664281)
+![Image](https://github.com/user-attachments/assets/7cc60c9d-68d2-4fd6-a225-e9af069c20cf)
 ---
 
 ## Table of Contents
